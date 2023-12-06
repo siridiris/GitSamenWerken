@@ -2,4 +2,10 @@ Dit is een tweede zin
 extra tekst
 tekst 3
 tekst 4
+
 vijfde tekst en een beetje testen 
+
+Laten we eens oppakken waar we maandag zijn gebleven. Dus een nieuwe regel in het document.
+
+vijfde tekst en een beetje testen 
+
